@@ -5,7 +5,7 @@
 
 ## [Projeto Site Login](https://nathrds.github.io/site-login/)
 
-Projeto site com login criado no capítulo 26 do curso de HTML5 e CSS3 no CursoemVideo.
+Projeto site com login responsivo Mobile First, criado no capítulo 26 do curso de HTML5 e CSS3 no CursoemVideo.
 
 <br/>
 
