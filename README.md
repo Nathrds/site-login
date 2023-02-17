@@ -18,5 +18,5 @@ Projeto site com login responsivo Mobile First, criado no capítulo 26 do curso 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/106173624/215840181-839dfe53-f0f3-462a-9c04-626621185daf.png)
 
-## QR Code - Projeto Mobile First
+## QR Code
 ![frame](https://user-images.githubusercontent.com/106173624/215840699-64a4ec53-bce3-4747-9bdc-a0540f0af2d4.png)
